@@ -1,4 +1,4 @@
-# # optitrack_perception_lcfc
+# optitrack_perception_lcfc
 
 Pipeline ROS 2 (Jazzy) de calibration main-œil (*hand-eye*, AX=XB) entre le système
 de capture de mouvement OptiTrack/Motive et la plateforme robotique à deux bras UR10e
